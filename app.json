@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "nlw-expert",
+    "slug": "nlw-expert",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png", 
-    "scheme": "myapp",
-    "userInterfaceStyle": "automatic",
+    "scheme": "nlw-expert",
+    "userInterfaceStyle": "dark",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0F172A"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -21,7 +21,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#0F172A"
       }
     },
     "web": {
