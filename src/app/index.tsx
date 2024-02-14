@@ -1,9 +1,14 @@
-import { View, Text } from "react-native";
+import { Header } from "@/components/header";
+import { View } from "react-native";
 
 export default function Home() {
+  
   return(
-    <View className="bg-slate-700">
-      <Text className="text-red-200">React Native</Text>
+    <View className="pt-8">
+      <Header
+        title="Faça seu pedido"
+        cardQuantity={3}
+      />
     </View>
   )
 }
