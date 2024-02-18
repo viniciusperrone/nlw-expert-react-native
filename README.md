@@ -101,15 +101,12 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE -->
 ## Result
 
 Here's a preview of the app
 
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+![RPReplay_Final1708279334](https://github.com/viniciusperrone/nlw-expert-react-native/assets/63932366/d95cfcf8-d193-48e6-9b07-f15d1b2856bd)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
